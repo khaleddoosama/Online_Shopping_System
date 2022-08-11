@@ -1,0 +1,5 @@
+﻿  Online Shopping System (ass).cpp
+C:\Users\lenovo\source\repos\Online Shopping System (ass)\Online Shopping System (ass)\Online Shopping System (ass).cpp(198,11): warning C4101: 'price': unreferenced local variable
+C:\Users\lenovo\source\repos\Online Shopping System (ass)\Online Shopping System (ass)\Online Shopping System (ass).cpp(197,9): warning C4101: 'Quantity': unreferenced local variable
+C:\Users\lenovo\source\repos\Online Shopping System (ass)\Online Shopping System (ass)\Online Shopping System (ass).cpp(186): warning C4715: 'seller::findItem': not all control paths return a value
+  Online Shopping System (ass).vcxproj -> C:\Users\lenovo\source\repos\Online Shopping System (ass)\x64\Debug\Online Shopping System (ass).exe
